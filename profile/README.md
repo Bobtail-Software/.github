@@ -1,8 +1,7 @@
 # Visitanos en [bobtail.software](https://bobtail.software)
-![bobtail.software](https://www.bobtail.software/assets/feature.png)
-
-[¡Échale un vistazo a nuestro stack!](https://stackshare.io/bobtail-software/bobtail-software)
-
+<p align="center">
+    <img alt="Bobtail software" width="320" height="320" src="https://bobtail.software/logo.png">
+</p>
 
 Si estás buscando tener tu propia aplicación tipo Uber o DiDi sin gastar grandes sumas de dinero, estás en el lugar correcto. En nuestra plataforma ofrecemos soluciones accesibles para que puedas tener tu app de taxi y/o transporte ejecutivo.
 
