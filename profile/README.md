@@ -17,19 +17,10 @@ Lo primero que debes saber es que nuestra app es una solución white label, lo q
 - Seguimiento de los conductores en tiempo real
 - Funcionalidades personalizables como precios, tarifas, zonas de servicio y más
 
-## Suscripción
-
-Ofrecemos dos planes de suscripción para que elijas el que mejor se adapte a tus necesidades:
-
-- Suscripción anual: $10,000 MXN
-- Suscripción mensual: $1,200 MXN
-
-Ambos planes incluyen la app para Android e iOS, el panel de administración web, un dominio personalizado, capacitación y soporte técnico.
-
-## ¿Quieres ser nuestro socio tecnológico?
+## ¿Quieres que seamos tu socio tecnológico?
 
 Si estás interesado en tener tu propia app de taxi o transporte ejecutivo, no dudes en contactarnos para más información y comenzar a trabajar en tu proyecto hoy mismo. ¡Estamos ansiosos por ser tu socio tecnológico en la creación de tu propia plataforma tipo Uber!
 
-## ¿Qué es una app white label tipo Uber?
+## ¿Qué es una app white label tipo Uber/DiDi/InDrive?
 
 Antes de profundizar en los beneficios de nuestra app white label, es importante definir qué es una app white label tipo Uber. Básicamente, es una aplicación de transporte personalizable, que se puede adaptar a las necesidades de tu empresa. Puedes integrar tu marca, definir las tarifas, establecer la disponibilidad, entre otras funciones.
